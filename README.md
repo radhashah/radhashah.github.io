@@ -1,2 +1,2 @@
 # radhashah.github.io
-Aphrodite Foods - Website
+Aphrodite Food - Website
